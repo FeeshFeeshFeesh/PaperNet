@@ -1,0 +1,134 @@
+# =============================================================================
+# This repository is published out of a ~20 GB working tree that contains a
+# live bot token, two bot configs, dozens of 13 MB nets, three virtualenvs and
+# 6 GB of built tablebase. A deny-list is one forgotten pattern away from
+# publishing a credential, and the forgotten pattern is never the one you
+# thought of.
+#
+# So this file DENIES EVERYTHING FIRST (section 1) and then names what ships
+# (section 2). Section 3 is a second, independent gate: in gitignore the LAST
+# matching rule wins, so nothing in section 2 can re-include a secret.
+#
+# general/publish_check.py enforces the same policy by a separate code path
+# and prints the manifest. Run it before every push:
+#
+#     python3 general/publish_check.py
+#
+# If you add a directory to the project, it ships NOTHING until you add it to
+# section 2 here AND to ALLOW in publish_check.py. That is deliberate.
+# =============================================================================
+
+# --- 1. deny everything, but keep descending into directories ---------------
+*
+!*/
+
+# --- 2. what ships ----------------------------------------------------------
+!/.gitignore
+!/LICENSE
+!/README.md
+!/RELEASE.md
+
+# the two Stockfish ports: source and their licences
+!/sf19_ports/README.md
+!/sf19_ports/sf19nn/src/**
+!/sf19_ports/sf19nn/build.sh
+!/sf19_ports/sf19nn/Copying.txt
+!/sf19_ports/sf19nn/LICENSE-sploppy-MIT
+!/sf19_ports/sf19nn/NOTICE-modifications.txt
+!/sf19_ports/sf19rps/src/**
+!/sf19_ports/sf19rps/Copying.txt
+!/sf19_ports/sf19rps/NOTICE-modifications.txt
+
+# harness, probes and the live seat (scripts only -- no nets, no logs)
+!/sf19_ports/tools/**/*.py
+!/sf19_ports/tools/**/*.md
+!/sf19_ports/tools/**/*.sh
+!/sf19_ports/live/**/*.py
+!/sf19_ports/live/**/*.md
+!/sf19_ports/live/LICENSE-sploppy-MIT
+
+# the tablebase: solver, prober and oracle. The BUILT tables never ship
+# (2.865 GiB); section 3 blocks them and RELEASE.md gives the build recipe.
+!/tablebase/**/*.py
+!/tablebase/**/*.c
+!/tablebase/**/*.md
+
+# the trainer: code and notes, never datasets or checkpoints
+!/nnue_train/**/*.py
+!/nnue_train/**/*.md
+
+# cloud costing, the burn monitor, the publish gate, the idea ledger
+!/general/**/*.py
+!/general/**/*.md
+!/general/**/*.json
+
+# --- 3. hard denies. Last rule wins, so these beat every line above. --------
+
+# credentials. Non-negotiable.
+connect_bot.py
+connect_bot2.py
+rpsbot.conf
+rpsbot2.conf
+*.conf
+.env
+.env.*
+id_rsa
+id_ed25519
+*.pem
+*.key
+
+# trees that hold the above, or are off limits by standing instruction
+/project_files/
+/RandomShitIWillNeverUseAgain/
+sep2026/
+
+# a vendored git checkout -- ship a submodule or a pointer, not a copy
+**/sploppy_repo/
+
+# environments and build detritus
+**/__pycache__/
+**/.venv/
+**/venv/
+**/site-packages/
+**/.idea/
+**/.pytest_cache/
+.DS_Store
+*.pyc
+*.pyo
+*.bak
+*.bak.*
+*.orig
+*.rej
+
+# weights, data, built tables and logs. Big, regenerable, or both.
+*.nnue
+*.dtz
+*.dtz.zst
+*.tbz
+*.zst
+*.pt
+*.pth
+*.npy
+*.npz
+*.bin
+*.log
+*.journal
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+
+# the built tablebase, in both formats, and the scratch dir the scripts write into.
+# NOTE: tablebase/tb5_build/ is NOT built output -- it is 1.4 MB of solver source
+# and small audit artifacts, so it is not denied here. The built tables are
+# tb5_zst/ (.dtz.zst) and probe/tbz/ (.tbz).
+/tablebase/tb5_zst/
+/tablebase/probe/tbz/
+/tablebase/probe/tb_pack
+/work/
+**/work/
+
+# compiled engines: GPL source ships, binaries do not
+/sf19_ports/sf19nn/stockfish
+/sf19_ports/sf19rps/stockfish
+/sf19_ports/live/stockfish

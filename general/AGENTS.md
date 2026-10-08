@@ -1,0 +1,1 @@
+Please dont write your files for Terminal (No sys.argv). Variables should be defined inside the program itself at the top. Because I will be running them straight out of Pycharm

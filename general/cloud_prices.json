@@ -1,0 +1,5878 @@
+{
+ "region": "asia-southeast1",
+ "currency": "AUD",
+ "skus": {
+  "Network Inter Region Data Transfer Out from Singapore to Seoul": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "004B-9431-9D1B",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Nvidia L4 GPU running in Singapore": {
+   "aud": 0.960691938,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "0117-733F-6A96",
+   "family": "Compute",
+   "group": "GPU"
+  },
+  "N1 Predefined Instance Ram running in Singapore": {
+   "aud": 0.007266491,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "0143-7EA7-329F",
+   "family": "Compute",
+   "group": "N1Standard"
+  },
+  "Reserved Nvidia H100 80GB GPU in Singapore in Calendar Mode": {
+   "aud": 6.354482809,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "0148-BB07-E78B",
+   "family": "Compute",
+   "group": "GPU"
+  },
+  "DWS Defined Duration A3Ultra Core running in Singapore": {
+   "aud": 0.015378377,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "01FD-6251-629B",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Turin": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "020E-9A1C-3649",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Sole Tenancy Premium for C3 Sole Tenancy Instance Ram running in Singapore": {
+   "aud": 0.000675523,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "0267-2535-4A53",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "0292-2C00-3E5E",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Johannesburg": {
+   "aud": 0.1529495,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "02C7-D8AF-2DDD",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "A2 Instance Ram running in Singapore": {
+   "aud": 0.007266491,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "03D0-B47F-1938",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Memory-optimized Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.056933365,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "048B-9038-B2BB",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Inter Region Data Transfer Out from Milan to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "04B8-8FE0-B7C7",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "C4D Sole Tenancy Instance Local SSD running in Singapore": {
+   "aud": 0.274463706,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "052C-49D2-B452",
+   "family": "Compute",
+   "group": "LocalSSD"
+  },
+  "Storage PD Capacity in Singapore": {
+   "aud": 0.0611798,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "0572-568A-4FC4",
+   "family": "Storage",
+   "group": "PDStandard"
+  },
+  "M4N Instance Core running in Singapore": {
+   "aud": 0.056438504,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "0586-F72A-5A3E",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to Frankfurt": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "05B9-F85D-3C54",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Stockholm to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "05BE-339E-7B0C",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Sole Tenancy Overcommit Premium for N2D AMD Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.011794144,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "062E-55FF-FFBF",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Bangkok": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "062F-5C1F-3C6D",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "N4D Instance Ram running in Singapore": {
+   "aud": 0.005673036,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "069B-94CA-CB88",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Hyperdisk Balanced High Availability Instant Snapshot data storage in Jurong West": {
+   "aud": 0.27447483,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "06C2-3220-2357",
+   "family": "Storage",
+   "group": "SSD"
+  },
+  "DWS Calendar Mode H4D Instance Core running in Singapore": {
+   "aud": 0.052166903,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "072B-C10D-13B1",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "C4 Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.059438553,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "07BA-01C0-F0DE",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Sole Tenancy Premium for C3D Sole Tenancy Instance Ram running in Singapore": {
+   "aud": 0.000679126,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "07D2-BA6E-B7B4",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Hyperdisk Throughput Throughput in Singapore": {
+   "aud": 0.4282586,
+   "unit": "mo",
+   "currency": "AUD",
+   "sku": "0828-F0A8-D000",
+   "family": "Storage",
+   "group": "SSD"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Mumbai": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "0840-0CA4-B537",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Balanced PD Instant Snapshot data storage in Singapore": {
+   "aud": 0.1529495,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "0954-C89A-A976",
+   "family": "Storage",
+   "group": "Storage"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Columbus": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "09A6-002F-1304",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Vpn Internet Data Transfer In from APAC to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "09D9-F0A6-374B",
+   "family": "Network",
+   "group": "VPNInternetIngress"
+  },
+  "H3 Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.075666217,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "0A1C-4F90-9D14",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Custom Instance Core running in Singapore": {
+   "aud": 0.056937467,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "0A28-6329-2B56",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Reserved N4D Custom Core in Singapore": {
+   "aud": 0.0,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "0A5B-0EF6-5126",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Compute optimized Ram running in Singapore": {
+   "aud": 0.007811548,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "0A77-34FA-6E87",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Vpn Inter Region Data Transfer In from Americas to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "0AA9-0B90-884B",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "A3 Instance Ram running in Singapore": {
+   "aud": 0.003808766,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "0B1B-A00D-9C69",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Sydney": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "0B7A-7442-6372",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to Netherlands": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "0BD9-E3B2-485F",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "M4 Instance Ram running in Singapore": {
+   "aud": 0.00794364,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "0C21-F383-DFB7",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to Salt Lake City": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "0C53-ABD8-8471",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Sole Tenancy Premium for M4 Sole Tenancy Instance Ram running in Singapore": {
+   "aud": 0.000794364,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "0CD0-E592-AC5B",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Los Angeles": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "0D6E-FCFD-C95E",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to Finland": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "0D89-C247-62E7",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Seoul": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "0D8F-DC2D-4CC6",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Internet Data Transfer In from Americas to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "0DAE-9664-F677",
+   "family": "Network",
+   "group": "PremiumInternetIngress"
+  },
+  "On-demand fee for total VM network bandwidth up to 100 Gbps in Singapore": {
+   "aud": 1.540257083,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "0DD5-ABF0-A3D0",
+   "family": "Network",
+   "group": "AdvancedNetworking"
+  },
+  "Nvidia H100 Mega 80GB GPU attached to DWS Defined Duration VMs running in Singapore": {
+   "aud": 6.151261811,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "0EA1-9D73-CE19",
+   "family": "Compute",
+   "group": "GPU"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Finland to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "0EAF-CF41-9A76",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Static Ip Charge in Singapore": {
+   "aud": 0.0,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "0F15-D3C0-5F12",
+   "family": "Network",
+   "group": "IpAddress"
+  },
+  "Sole Tenancy Premium for H4D Sole Tenancy Instance Ram running in Singapore": {
+   "aud": 0.000233595,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "0F3C-68EF-07D3",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "M4N Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.056438504,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "0F76-D812-0967",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Asynchronous Replication Protection - Hyperdisk Balanced Capacity in Singapore": {
+   "aud": 0.054922775,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "0F90-22A0-9393",
+   "family": "Storage",
+   "group": "SSD"
+  },
+  "DWS Defined Duration Custom Core running in Singapore": {
+   "aud": 0.05693673,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "10BE-9D2D-B785",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "A2 Instance Core running in Singapore": {
+   "aud": 0.054226159,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "10F0-EE60-26C7",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "C3D Instance Core running in Singapore": {
+   "aud": 0.050712311,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "1102-0B94-379D",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Columbus": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "1246-1CA2-E9A8",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Network Vpn Internet Data Transfer Out from Singapore to Americas": {
+   "aud": 0.194663,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "128A-F708-0D72",
+   "family": "Network",
+   "group": "VPNInternetEgress"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Madrid": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "12AB-4FE0-8BF7",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "M3 Memory-optimized Instance Core running in Singapore": {
+   "aud": 0.059695856,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "12CB-75EB-8C97",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "N4D Instance Core running in Singapore": {
+   "aud": 0.04993523,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "134D-F213-A123",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "M4 Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.031769001,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "1382-00A2-B385",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Inter Region Data Transfer In from Santiago to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "13B6-5B73-6B71",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Network Inter Region Data Transfer Out from Toronto to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "1466-2A47-C11B",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Salt Lake City": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "1498-C5F9-3824",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Vpn Internet Data Transfer In from Americas to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "1605-9472-E861",
+   "family": "Network",
+   "group": "VPNInternetIngress"
+  },
+  "Network Vpn Internet Data Transfer Out from Singapore to Middle East": {
+   "aud": 0.194663,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "16A6-9863-27FF",
+   "family": "Network",
+   "group": "VPNInternetEgress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Mexico to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "16C8-4CD1-5B0E",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Balanced PD Capacity in Singapore": {
+   "aud": 0.1529495,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "16D2-FC49-A127",
+   "family": "Storage",
+   "group": "SSD"
+  },
+  "Network Internet Data Transfer In from China to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "1727-A811-F543",
+   "family": "Network",
+   "group": "PremiumInternetIngress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Santiago": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "1771-43A1-9155",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Inter Region Data Transfer Out from Paris to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "178E-1F59-C65B",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Asynchronous Replication Protection - Hyperdisk Balanced High Availability Capacity in Singapore": {
+   "aud": 0.10984555,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "17CA-1FD3-0500",
+   "family": "Storage",
+   "group": "SSD"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Dallas": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "1877-164A-FA3B",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Sole Tenancy Premium for C4D Sole Tenancy Instance Local SSD running in Singapore": {
+   "aud": 0.02744637,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "188D-7ADB-D439",
+   "family": "Compute",
+   "group": "LocalSSD"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Madrid to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "189B-4D46-62CE",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Reserved SSD backed Local Storage in Singapore in Calendar Mode": {
+   "aud": 0.111236,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "18D2-F254-69B8",
+   "family": "Storage",
+   "group": "LocalSSD"
+  },
+  "G2 Instance Ram running in Singapore": {
+   "aud": 0.005021739,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "1930-29C0-2AFB",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to EMEA": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "1942-A569-943E",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "N4 Sole Tenancy Instance Ram running in Singapore": {
+   "aud": 0.006072509,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "19C4-45DC-6FCE",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Vpn Inter Region Data Transfer In from Israel to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "1A2A-4168-D296",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Vpn Internet Data Transfer Out from Singapore to South America": {
+   "aud": 0.194663,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "1A3B-1902-FAF8",
+   "family": "Network",
+   "group": "VPNInternetEgress"
+  },
+  "Network Vpn Internet Data Transfer Out from Singapore to Western Europe": {
+   "aud": 0.194663,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "1A7F-415B-C2F1",
+   "family": "Network",
+   "group": "VPNInternetEgress"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to Columbus": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "1AA3-5D70-111B",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Vpn Internet Data Transfer Out from Singapore to APAC": {
+   "aud": 0.194663,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "1AB0-2148-EC9D",
+   "family": "Network",
+   "group": "VPNInternetEgress"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Paris": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "1AE3-C8CB-9D2A",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Network Inter Region Data Transfer Out from London to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "1B24-7A67-1CB9",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "M3 Memory-optimized Instance Ram running in Singapore": {
+   "aud": 0.00874853,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "1B31-5195-94B0",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "C3 Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.059438553,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "1B8A-7814-8F7D",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Delhi": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "1BD4-E996-4773",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "C4D Sole Tenancy Instance Ram running in Singapore": {
+   "aud": 0.005996308,
+   "unit": "GBy.h",
+   "currency": "AUD",
+   "sku": "1BD6-1694-343E",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Inter Region Data Transfer Out from Berlin to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "1BF6-236C-AD7C",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Frankfurt": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "1C01-899C-60C8",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Nvidia Tesla A100 80GB GPU running in Singapore": {
+   "aud": 6.738220812,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "1C49-8ADA-54A8",
+   "family": "Compute",
+   "group": "GPU"
+  },
+  "Network Inter Region Data Transfer In from Doha to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "1CAC-8C97-C754",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to Las Vegas": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "1D78-57EE-5E33",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "H4D Sole Tenancy Instance Local SSD running in Singapore": {
+   "aud": 0.204492091,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "1DDE-0040-2A5A",
+   "family": "Compute",
+   "group": "LocalSSD"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Frankfurt to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "1E2B-41EC-BA97",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Melbourne": {
+   "aud": 0.2085675,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "1E8F-7346-A058",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Regional Archive Snapshot Early Deletion in Jurong West": {
+   "aud": 0.03253653,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "1F09-1278-EF5B",
+   "family": "Storage",
+   "group": "PDSnapshot"
+  },
+  "N2 Custom Instance Ram running in Singapore": {
+   "aud": 0.007629816,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "1F19-9175-5B89",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Memory Optimized Upgrade Premium for Memory-optimized Instance Ram running in Singapore": {
+   "aud": 0.00108634,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "E2AD-9D0E-234E",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Netherlands": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "1F3E-FE1E-3371",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "N4 Instance Ram running in Singapore": {
+   "aud": 0.006072509,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "1F92-9CD1-0C58",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Committed Use Discount Premium for N4D Custom Instance Core running in Singapore": {
+   "aud": 0.001123585,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "1F9A-17F8-7700",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to Israel": {
+   "aud": 0.1529495,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "209D-7B7E-8D80",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "A4 Nvidia B200 (1 gpu slice) running in Singapore": {
+   "aud": 26.8801794,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "20B6-4FD3-F81D",
+   "family": "Compute",
+   "group": "GPU"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Dammam to Singapore": {
+   "aud": 0.1529495,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "210D-C9D9-2601",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Hong Kong to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "218D-39B9-2732",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Micro Instance with burstable CPU running in Singapore": {
+   "aud": 0.01279214,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "21D7-4648-AED4",
+   "family": "Compute",
+   "group": "F1Micro"
+  },
+  "Hyperdisk Throughput Capacity in Singapore": {
+   "aud": 0.0083427,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "21E3-A146-D94F",
+   "family": "Storage",
+   "group": "SSD"
+  },
+  "T2A Arm Instance Core running in Singapore": {
+   "aud": 0.042714624,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "21FA-D397-3735",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Vpn Internet Data Transfer In from Africa to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "221E-1478-6837",
+   "family": "Network",
+   "group": "VPNInternetIngress"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to Phoenix": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "22B6-8009-C0D8",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Mexico": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "22C2-FC16-BBCE",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "H3 Instance Ram running in Singapore": {
+   "aud": 0.005077578,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "2365-3D6A-299F",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Berlin": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "2439-E58A-B23C",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Sole Tenancy Overcommit Premium for N4 Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.01397106,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "2496-4A77-2209",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "24D3-F852-4A32",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "N2 Instance Core running in Singapore": {
+   "aud": 0.054226159,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "2514-CA24-299A",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Mumbai": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "2542-3126-363C",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Frankfurt": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "254A-E119-0386",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Reserved M4 Core in Singapore": {
+   "aud": 0.0,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "25AD-71CC-3B77",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Inter Region Data Transfer Out from Delhi to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "25DA-D801-02FA",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "On-demand fee for total VM network bandwidth up to 75 Gbps in Singapore": {
+   "aud": 1.155191421,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "2652-B9A5-EA87",
+   "family": "Network",
+   "group": "AdvancedNetworking"
+  },
+  "Network Internet Data Transfer Out from Singapore to Middle East": {
+   "aud": 0.2085675,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "2741-934F-0803",
+   "family": "Network",
+   "group": "PremiumInternetEgress"
+  },
+  "Sole Tenancy Premium for C4A Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.00530058,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "276C-D0BC-ECF9",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Inter Region Data Transfer In from Finland to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "2791-5FA3-2C2D",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Asynchronous Replication Protection - PD SSD in Singapore": {
+   "aud": 0.11624162,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "27C2-263E-60D1",
+   "family": "Storage",
+   "group": "SSD"
+  },
+  "Network Internet Data Transfer Out from Singapore to Australia": {
+   "aud": 0.2641855,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "292B-5D52-060C",
+   "family": "Network",
+   "group": "PremiumInternetEgress"
+  },
+  "Nvidia Tesla A100 80GB GPU attached to DWS Defined Duration VMs running in Singapore": {
+   "aud": 3.166964004,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "293E-F9AA-0457",
+   "family": "Compute",
+   "group": "GPU"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Kuala Lumpur": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "2947-DCE5-2D91",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "C3 Instance Ram running in Singapore": {
+   "aud": 0.006755237,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "2993-DABE-6694",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "TpuV5p running in Singapore": {
+   "aud": 6.947362568,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "29F6-1F9F-EB36",
+   "family": "Compute",
+   "group": "TPU"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Jakarta": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "2A1D-A560-CF82",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to Paris": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "2B47-5810-16CB",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Dammam": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "2BA1-319A-A2EC",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Melbourne to Singapore": {
+   "aud": 0.2085675,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "2D4D-2154-E0D9",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Internet Data Transfer Out from Singapore to Americas": {
+   "aud": 0.166854,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "2DF7-CD55-4181",
+   "family": "Network",
+   "group": "PremiumInternetEgress"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Osaka": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "2E46-0B86-87DA",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "RTX 6000 96GB running in Singapore": {
+   "aud": 1.8281358509999999,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "2ED4-348D-F042",
+   "family": "Compute",
+   "group": "GPU"
+  },
+  "H4D Instance Core running in Singapore": {
+   "aud": 0.065209324,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "2EFE-F4DA-217A",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Vpn Internet Data Transfer In from Western Europe to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "2F39-A540-6588",
+   "family": "Network",
+   "group": "VPNInternetIngress"
+  },
+  "Sole Tenancy Premium for Compute-optimized Sole Tenancy Instance RAM running in Singapore": {
+   "aud": 0.000781154,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "3046-21CA-3C13",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Inter Region Data Transfer Out from Madrid to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "306C-6AA4-5319",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "N4 Custom Extended Instance Ram running in Singapore": {
+   "aud": 0.01500283,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "307A-2CA3-7D65",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to London": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "30B2-2B5D-5FA4",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Sole Tenancy Premium for Memory-optimized Sole Tenancy Instance RAM running in Singapore": {
+   "aud": 0.00083566,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "30C0-9497-E947",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "DWS Flex Start H4D Standard Local SSD running in Singapore": {
+   "aud": 0.153368025,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "311B-E553-C284",
+   "family": "Compute",
+   "group": "LocalSSD"
+  },
+  "Hyperdisk Extreme Capacity in Singapore": {
+   "aud": 0.2141293,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "3140-CBE4-EC7A",
+   "family": "Storage",
+   "group": "SSD"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Mexico": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "3199-44CB-803E",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Sao Paulo to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "31C1-D641-3CA8",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "G2 Custom Instance Ram running in Singapore": {
+   "aud": 0.005272826,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "31C2-3815-7DB3",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Bangkok": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "3285-E964-E680",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Sole Tenancy Premium for Sole Tenancy Instance RAM running in Singapore": {
+   "aud": 0.000726649,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "3298-8D0C-36FE",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Asynchronous Replication Protection - PD Balanced in Singapore": {
+   "aud": 0.06841014,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "32A7-7C49-E522",
+   "family": "Storage",
+   "group": "SSD"
+  },
+  "Reserved V5e TPU in Singapore in Calendar Mode": {
+   "aud": 1.167978,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "32AF-B0D2-6BA8",
+   "family": "Compute",
+   "group": "TPU"
+  },
+  "Network Inter Region Data Transfer In from Madrid to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "33D6-BD7F-3624",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Asynchronous Replication Protection - Hyperdisk Balanced High Availability IOPS in Singapore": {
+   "aud": 0.006813205,
+   "unit": "mo",
+   "currency": "AUD",
+   "sku": "33EF-B01E-2E50",
+   "family": "Storage",
+   "group": "SSD"
+  },
+  "Sole Tenancy Premium for C4A Sole Tenancy Instance Ram running in Singapore": {
+   "aud": 0.000600389,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "33F3-1AF0-3642",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Vpn Inter Region Data Transfer In from Seoul to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "3400-36CC-950C",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "DWS Defined Duration G2 Core running in Singapore": {
+   "aud": 0.042864736,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "3489-14CF-014E",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Storage Machine Image in Singapore": {
+   "aud": 0.083427,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "34D1-8A67-A9AE",
+   "family": "Storage",
+   "group": "MachineImage"
+  },
+  "Z3 Instance Local SSD running in Singapore": {
+   "aud": 0.13682028,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "34D8-D969-A2BB",
+   "family": "Compute",
+   "group": "LocalSSD"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Milan to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "35B2-9F3D-2846",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "On-demand fee for total VM network bandwidth up to 50 Gbps in Singapore": {
+   "aud": 0.770128541,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "35CC-357E-E28F",
+   "family": "Network",
+   "group": "AdvancedNetworking"
+  },
+  "E2 Custom Instance Core running in Singapore": {
+   "aud": 0.039286858,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "3619-8579-8AA5",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Osaka to Singapore": {
+   "aud": 0.194663,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "362D-3398-9CE4",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Inter Region Data Transfer In from Phoenix to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "3647-B73B-1B46",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "H4D Instance Ram running in Singapore": {
+   "aud": 0.002327613,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "3651-5D7F-B31B",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Inter Region Data Transfer Out from Santiago to Singapore": {
+   "aud": 0.194663,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "371A-1B17-C11A",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Reserved A2 Ram in Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "371F-AC67-9CEE",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "G4 Instance Ram running in Singapore": {
+   "aud": 0.009794329,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "3759-9C91-CB30",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "N2 Sole Tenancy Instance RAM running in Singapore": {
+   "aud": 0.007266491,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "3780-FD58-C69E",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Hyperdisk Extreme IOPS in Singapore": {
+   "aud": 0.05422755,
+   "unit": "mo",
+   "currency": "AUD",
+   "sku": "37AA-8696-D101",
+   "family": "Storage",
+   "group": "SSD"
+  },
+  "M4N Instance Ram running in Singapore": {
+   "aud": 0.014110286,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "37E5-F63F-95D6",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "H200 141GB GPU attached to DWS Defined Duration VMs running in Singapore": {
+   "aud": 6.361757865,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "38C1-BF42-3D2E",
+   "family": "Compute",
+   "group": "GPU"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Netherlands": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "3A09-CD21-31B3",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Internet Data Transfer Out from Singapore to Eastern Europe": {
+   "aud": 0.166854,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "3A89-5BC3-6395",
+   "family": "Network",
+   "group": "PremiumInternetEgress"
+  },
+  "C3D Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.050712311,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "3A94-DB6F-CF4F",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Inter Region Data Transfer Out from Bangkok to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "3B72-2498-E4AD",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Warsaw to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "3C06-25E4-014B",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to Dammam": {
+   "aud": 0.1529495,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "3C0B-646B-8675",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Vpn Internet Data Transfer Out from Singapore to China": {
+   "aud": 0.3198035,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "3C33-68CD-577F",
+   "family": "Network",
+   "group": "VPNInternetEgress"
+  },
+  "Hyperdisk ML Capacity in Jurong West": {
+   "aud": 0.1362641,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "3D07-7CAB-6073",
+   "family": "Storage",
+   "group": "SSD"
+  },
+  "Network Internet Data Transfer Out from Singapore to South America": {
+   "aud": 0.2641855,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "3D1A-C30D-01E9",
+   "family": "Network",
+   "group": "PremiumInternetEgress"
+  },
+  "Network Inter Region Data Transfer In from Toronto to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "3D6F-313B-ECC7",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Phoenix": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "3E54-5636-1697",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Reserved M4Ultramem224 Ram in Singapore": {
+   "aud": 0.0,
+   "unit": "GBy.h",
+   "currency": "AUD",
+   "sku": "3EC5-C75E-5C80",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Inter Region Data Transfer In from Jakarta to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "3F27-A190-0926",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Nvidia Tesla T4 GPU attached to DWS Defined Duration VMs running in Singapore": {
+   "aud": 0.5144665,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "3F9C-1700-8907",
+   "family": "Compute",
+   "group": "GPU"
+  },
+  "VM state: suspended RAM in Singapore": {
+   "aud": 0.000356183,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "3FDA-0EE2-A644",
+   "family": "Compute",
+   "group": "VmState"
+  },
+  "Sole Tenancy Premium for M3 Memory-optimized Sole Tenancy Instance Ram running in Singapore": {
+   "aud": 0.000874853,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "3FF4-B714-B91E",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Internet Data Transfer Out from Singapore to Apac(Excluding Korea and Indonesia)": {
+   "aud": 0.166854,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "400E-0B94-6FB4",
+   "family": "Network",
+   "group": "PremiumInternetEgress"
+  },
+  "RTX 6000 96GB attached to DWS Defined Duration VMs running in Singapore": {
+   "aud": 0.761730223,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "404B-0666-EB7F",
+   "family": "Compute",
+   "group": "GPU"
+  },
+  "Reserved A3 Core in Singapore in Calendar Mode": {
+   "aud": 0.01653915,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "40E9-E06A-2002",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Santiago to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "40F8-8351-654F",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "DWS Defined Duration A2 Core running in Singapore": {
+   "aud": 0.029823762,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "416B-7055-D3FE",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to Milan": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "416D-02B6-79CD",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Warsaw": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "4198-0AC2-A38F",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Inter Region Data Transfer In from Hong Kong to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "41AE-319F-ADF4",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Columbus to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "41D6-D34A-8676",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to EMEA": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "424E-64B3-6D7E",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Hyperdisk Throughput Storage Pools Standard Throughput - Jurong West": {
+   "aud": 0.427563375,
+   "unit": "mo",
+   "currency": "AUD",
+   "sku": "4304-0D82-EC29",
+   "family": "Storage",
+   "group": "HDTSP"
+  },
+  "Network Internet Data Transfer In from Apac(Excluding Korea and Indonesia) to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "430F-7587-F336",
+   "family": "Network",
+   "group": "PremiumInternetIngress"
+  },
+  "C4D Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.056099512,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "432E-2FA5-818B",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Americas": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "4365-4893-8506",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Vpn Internet Data Transfer In from Eastern Europe to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "4379-85E5-178C",
+   "family": "Network",
+   "group": "VPNInternetIngress"
+  },
+  "Hyperdisk Balanced High Availability Iops in Jurong West": {
+   "aud": 0.017102535,
+   "unit": "mo",
+   "currency": "AUD",
+   "sku": "43AC-937C-6771",
+   "family": "Storage",
+   "group": "SSD"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Montreal to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "43BA-216A-FADF",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Virginia to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "43BA-CFF4-EF55",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Hyperdisk Balanced Storage Pools Standard Throughput - Jurong West": {
+   "aud": 0.06841014,
+   "unit": "mo",
+   "currency": "AUD",
+   "sku": "43F2-E05F-90EF",
+   "family": "Storage",
+   "group": "HDBSP"
+  },
+  "Network Inter Region Data Transfer In from Bangkok to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "4494-F449-DBF6",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Network Inter Region Data Transfer In from Sydney to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "4511-364C-760F",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "DWS Defined Duration A3 Core running in Singapore": {
+   "aud": 0.01520318,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "4529-B360-744E",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Vpn Inter Region Data Transfer In from Osaka to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "4557-ADB9-B1FD",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Inter Region Data Transfer In from Zurich to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "455D-3DD0-57E1",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "C4D Instance Core running in Singapore": {
+   "aud": 0.056099512,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "4623-9C68-EEA7",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Reserved M4 Ram in Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "4652-66C1-27DC",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Vpn Inter Region Data Transfer In from APAC to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "4671-3D08-4570",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Hyperdisk Balanced High Availability Capacity in Jurong West": {
+   "aud": 0.27364056,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "467A-BBF0-8566",
+   "family": "Storage",
+   "group": "SSD"
+  },
+  "Network Inter Region Data Transfer Out from Mumbai to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "467B-6163-2449",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Delhi to Singapore": {
+   "aud": 0.0695225,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "46C9-5386-7288",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to Johannesburg": {
+   "aud": 0.1529495,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "470C-B834-7AA2",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Frankfurt to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "4714-B228-1768",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "T2D AMD Instance Ram running in Singapore": {
+   "aud": 0.006322376,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "4756-01E4-0F32",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Sole Tenancy Overcommit Premium for Sole Tenancy Instance RAM running in Singapore": {
+   "aud": 0.001816622,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "4835-E708-0B90",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Nvidia H100 80GB Mega GPU running in Singapore": {
+   "aud": 18.698159802,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "48A2-C25F-A2B9",
+   "family": "Compute",
+   "group": "GPU"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to Warsaw": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "4909-08EB-194C",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Internet Data Transfer In from Middle East to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "4958-1DA0-2ABB",
+   "family": "Network",
+   "group": "PremiumInternetIngress"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Mexico": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "497A-95FC-DE26",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Dammam to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "49BA-0AFB-7C34",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Toronto": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "4A1B-0025-6E4C",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Reserved A3Mega Ram in Singapore in Calendar Mode": {
+   "aud": 0.001525624,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "4A33-E79D-73D9",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Inter Region Data Transfer In from Netherlands to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "4A3B-20FE-82D6",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "C4A Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.052937184,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "4B29-D45F-2630",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Johannesburg": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "4B4D-D52B-C384",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Standard Internet Data Transfer In to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "4B6D-EBA9-2693",
+   "family": "Network",
+   "group": "StandardInternetIngress"
+  },
+  "Network Inter Region Data Transfer Out from Doha to Singapore": {
+   "aud": 0.1529495,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "4BEC-A5FB-5C24",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Hyperdisk Throughput Storage Pools Advanced Throughput - Jurong West": {
+   "aud": 0.81230089,
+   "unit": "mo",
+   "currency": "AUD",
+   "sku": "4C28-D312-A9EC",
+   "family": "Storage",
+   "group": "HDTSP"
+  },
+  "N2D AMD Custom Instance Ram running in Singapore": {
+   "aud": 0.006638494,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "4CBB-9DAF-2D6E",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Sole Tenancy Overcommit Premium for N2 Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.013556539,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "4D1C-9015-1B79",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Stockholm": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "4E21-4209-6D6C",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Asynchronous Replication Protection - Regional PD SSD in Singapore": {
+   "aud": 0.232622285,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "4E27-705A-BE57",
+   "family": "Storage",
+   "group": "SSD"
+  },
+  "Network Vpn Inter Region Data Transfer In from Melbourne to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "4E84-C0E6-E7CB",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Sao Paulo": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "4E8F-FC61-12CD",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Memory-optimized Instance Core running in Singapore": {
+   "aud": 0.056869405,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "B428-ABC6-FFED",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to Delhi": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "4F4F-A2FF-50D0",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Snapshot Recycle Bin Storage in Singapore": {
+   "aud": 0.085512675,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "4F8E-5EF0-D36E",
+   "family": "Storage",
+   "group": "PDSnapshot"
+  },
+  "Sole Tenancy Premium for G2 Sole Tenancy Instance Ram running in Singapore": {
+   "aud": 0.000502173,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "4FA4-B0B4-4675",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Virginia": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "4FA6-2A20-FDED",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Inter Region Data Transfer Out from Sao Paulo to Singapore": {
+   "aud": 0.194663,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "4FCB-DC7C-C1F7",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Berlin": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "5282-13E5-0EA7",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Hyperdisk Balanced Instant Snapshot data storage in Jurong West": {
+   "aud": 0.137237415,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "5295-053C-A8AA",
+   "family": "Storage",
+   "group": "SSD"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Turin": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "52DA-8CD5-D1A6",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "G2 Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.042864736,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "5367-B770-3739",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to Bangkok": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "53B8-3395-D04D",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Turin to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "53DF-C1C0-3C5A",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to London": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "544A-A79B-093B",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Bangkok to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "54D4-F2FD-86C6",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Kuala Lumpur": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "5509-AA20-29B0",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Vpn Internet Data Transfer In from China to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "5547-D898-61BB",
+   "family": "Network",
+   "group": "VPNInternetIngress"
+  },
+  "Sole Tenancy Premium for N4A Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.004538428,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "5553-D450-4D30",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Vpn Inter Region Data Transfer In from EMEA to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "555A-1E9A-520A",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Regional Storage PD Capacity in Singapore": {
+   "aud": 0.1223596,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "55C0-508F-9F7F",
+   "family": "Storage",
+   "group": "PDStandard"
+  },
+  "Network Inter Region Data Transfer Out from Seoul to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "5661-5EEA-F9C7",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Inter Region Data Transfer Out from Stockholm to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "575E-EE6D-E12A",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to Sao Paulo": {
+   "aud": 0.194663,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "57CC-A99B-29F3",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Hyperdisk ML Throughput in Jurong West": {
+   "aud": 0.2057866,
+   "unit": "mo",
+   "currency": "AUD",
+   "sku": "5814-8BE8-4C5D",
+   "family": "Storage",
+   "group": "SSD"
+  },
+  "DWS Defined Duration G4 Local SSD running in Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "5876-F647-BFAE",
+   "family": "Compute",
+   "group": "LocalSSD"
+  },
+  "Nvidia Tesla T4 GPU running in Singapore": {
+   "aud": 0.5144665,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "589B-0FAB-031A",
+   "family": "Compute",
+   "group": "GPU"
+  },
+  "M4NUltramem224Instance Ram running in Singapore": {
+   "aud": 0.017525509,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "58C3-B249-A91E",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "1/8 vGPU no lssd running in Singapore": {
+   "aud": 1.079350717,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "58D9-A387-D6B0",
+   "family": "Compute",
+   "group": "GPU"
+  },
+  "Network Internet Data Transfer In from Central America to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "59D0-1B4D-E8F6",
+   "family": "Network",
+   "group": "PremiumInternetIngress"
+  },
+  "Network Inter Region Data Transfer In from Mumbai to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "5A71-68EE-5232",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Netherlands to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "5AD0-3F17-7B8F",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "G2 Custom Instance Core running in Singapore": {
+   "aud": 0.045007976,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "5AF4-6297-38CF",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Hyperdisk Balanced Storage Pools Advanced Throughput - Jurong West": {
+   "aud": 0.130007075,
+   "unit": "mo",
+   "currency": "AUD",
+   "sku": "5B0C-676E-D62E",
+   "family": "Storage",
+   "group": "HDBSP"
+  },
+  "Hyperdisk Throughput Storage Pools Advanced Capacity - Jurong West": {
+   "aud": 0.015433995,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "5B1E-BB52-792E",
+   "family": "Storage",
+   "group": "HDTSP"
+  },
+  "Network Inter Region Data Transfer In from Dallas to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "5B43-E6F8-A36C",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "N4 Custom Instance Ram running in Singapore": {
+   "aud": 0.006376135,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "5B46-CFB5-4940",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Netherlands": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "5BA2-6C88-B4AF",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Mexico to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "5BE4-E021-F26A",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "N4A Instance Core running in Singapore": {
+   "aud": 0.045384288,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "5C99-219A-AB14",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "M4Ultramem224 Sole Tenancy Instance Ram running in Singapore": {
+   "aud": 0.009865034,
+   "unit": "GBy.h",
+   "currency": "AUD",
+   "sku": "5CDA-AA32-49F7",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "H3 Sole Tenancy Instance Ram running in Singapore": {
+   "aud": 0.005077578,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "5D5F-309A-0545",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Hyperdisk Balanced IOPS in Singapore": {
+   "aud": 0.0083427,
+   "unit": "mo",
+   "currency": "AUD",
+   "sku": "5D64-B6D5-B6E8",
+   "family": "Storage",
+   "group": "SSD"
+  },
+  "DWS Defined Duration N1 Predefined Ram running in Singapore": {
+   "aud": 0.007268142,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "5EA1-83D8-C941",
+   "family": "Compute",
+   "group": "N1Standard"
+  },
+  "Network Vpn Inter Region Data Transfer In from Phoenix to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "5F1E-2F4E-FB0D",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Vpn Internet Data Transfer In from Middle East to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "5F7E-AB98-A2A5",
+   "family": "Network",
+   "group": "VPNInternetIngress"
+  },
+  "Sole Tenancy Premium for H4D Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.00652121,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "5FBC-BF31-42BE",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Asynchronous Replication Protection - Hyperdisk Balanced IOPS in Singapore": {
+   "aud": 0.003476125,
+   "unit": "mo",
+   "currency": "AUD",
+   "sku": "5FDC-A024-087C",
+   "family": "Storage",
+   "group": "SSD"
+  },
+  "Network Inter Region Data Transfer Out from Las Vegas to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "601D-C86E-8720",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "A3Plus Instance Ram running in Singapore": {
+   "aud": 0.004237845,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "60B1-C5C3-AB68",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "H4D Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.065209324,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "6114-71E7-606A",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Vpn Internet Data Transfer In from EMEA to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "619E-CE40-5F74",
+   "family": "Network",
+   "group": "VPNInternetIngress"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to Stockholm": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "61D2-D2A6-1F28",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Reserved V6e TPU in Singapore in Calendar Mode": {
+   "aud": 2.6279505,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "61E1-C957-5554",
+   "family": "Compute",
+   "group": "TPU"
+  },
+  "Network Inter Region Data Transfer Out from Jakarta to Singapore": {
+   "aud": 0.139045,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "6229-80CA-4A45",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Johannesburg to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "624C-66EE-EB0E",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Inter Region Data Transfer Out from Dallas to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "627E-3DCB-E87E",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Las Vegas to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "62B4-D418-1A94",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Reserved N4D Core in Singapore": {
+   "aud": 0.0,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "62EB-A306-361C",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to APAC": {
+   "aud": 0.0695225,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "633E-B8BE-ACED",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Montreal to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "639C-7E71-9487",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Sole Tenancy Premium for C3D Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.005071231,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "644E-0CEF-BF31",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Hyperdisk Balanced Throughput Confidential Mode in Singapore": {
+   "aud": 0.0139045,
+   "unit": "mo",
+   "currency": "AUD",
+   "sku": "64A6-C973-51C9",
+   "family": "Storage",
+   "group": "SSD"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Zurich": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "64D0-2507-8FC8",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Inter Region Data Transfer In from Singapore to EMEA": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "6532-BA4E-165E",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Network Inter Region Data Transfer Out from APAC to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "6540-B94F-D381",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "N4A Sole Tenancy Instance Ram running in Singapore": {
+   "aud": 0.005158569,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "661C-0E10-EB4C",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "M4NUltramem224 Instance Core running in Singapore": {
+   "aud": 0.071542823,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "663E-6FE8-A63F",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Inter Region Data Transfer In from Turin to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "667A-A1B5-7F96",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Phoenix to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "669C-8AF3-034D",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.054226159,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "66E8-F5BC-F1A1",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Vpn Inter Region Data Transfer Out from London to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "6845-53EA-793E",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Seoul": {
+   "aud": 0.0695225,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "68C2-7AE4-E980",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Sole Tenancy Premium for N2 Sole Tenancy Instance RAM running in Singapore": {
+   "aud": 0.000726649,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "68D4-26FD-63F3",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Vpn Inter Region Data Transfer In from Finland to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "696E-D130-0F30",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Inter Region Data Transfer Out from Hong Kong to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "6A67-C406-FE2F",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Inter Region Data Transfer Out from Johannesburg to Singapore": {
+   "aud": 0.1529495,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "6A85-8002-8553",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Sao Paulo to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "6AF9-B566-AF0F",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Vpn Internet Data Transfer In from India to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "6B0E-C5AD-70A3",
+   "family": "Network",
+   "group": "VPNInternetIngress"
+  },
+  "C4 Instance Local SSD running in Singapore": {
+   "aud": 0.274460925,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "6B1E-DCB9-0001",
+   "family": "Compute",
+   "group": "LocalSSD"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Salt Lake City to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "6B48-8C8F-F6A5",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Sole Tenancy Premium for N4 Sole Tenancy Instance Ram running in Singapore": {
+   "aud": 0.00060725,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "6B5E-2FE5-AAC3",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "A3Plus Instance Core running in Singapore": {
+   "aud": 0.048666695,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "6C11-D8DF-B2DB",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Bangkok": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "6CB9-33F0-9399",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Reserved N4D Custom Ram in Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "6D18-6EAB-FC7A",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Stockholm": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "6D48-1F70-4077",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "G4 Instance Local SSD running in Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "6D84-9337-453A",
+   "family": "Compute",
+   "group": "LocalSSD"
+  },
+  "Reserved A2 Core in Singapore": {
+   "aud": 0.0,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "6D92-951D-ED8E",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "C2D AMD Instance Ram running in Singapore": {
+   "aud": 0.006790957,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "6E53-DF71-F575",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to Jakarta": {
+   "aud": 0.139045,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "6E5D-2101-EB9A",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Japan to Singapore": {
+   "aud": 0.0695225,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "6EB8-B595-990B",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Regional SSD backed PD Capacity in Singapore": {
+   "aud": 0.5200283,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "6EF9-716A-B2AF",
+   "family": "Storage",
+   "group": "SSD"
+  },
+  "Network Vpn Inter Region Data Transfer In from Sydney to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "6F78-B3A1-56FA",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Hyperdisk Balanced Throughput in Singapore": {
+   "aud": 0.06813205,
+   "unit": "mo",
+   "currency": "AUD",
+   "sku": "6FF6-CDED-9C41",
+   "family": "Storage",
+   "group": "SSD"
+  },
+  "Reserved A3 Ram in Singapore in Calendar Mode": {
+   "aud": 0.001440212,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "704C-6F8B-3E7C",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Milan": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "7069-845E-C644",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "M4Ultramem224 Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.040267432,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "70AB-403F-F146",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "E2 Instance Core running in Singapore": {
+   "aud": 0.03741605,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "7102-B9AA-2ACF",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Warsaw": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "718D-3664-BC8B",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Memory-optimized Instance Ram running in Singapore": {
+   "aud": 0.008356465,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "C18E-DD54-9DD1",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Regional SSD PD Instant Snapshot data storage in Singapore": {
+   "aud": 0.5200283,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "722F-52C2-F9EB",
+   "family": "Storage",
+   "group": "Storage"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Santiago": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "7295-C2FB-B30A",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to Americas": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "72F8-90AD-8752",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Capacity Optimized TpuV6e running in Singapore": {
+   "aud": 4.1296365,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "733D-B1AF-DD96",
+   "family": "Compute",
+   "group": "TPU"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Toronto": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "7425-C155-9455",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Inter Region Data Transfer Out from Salt Lake City to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "7443-7D1A-8459",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Sole Tenancy Premium for M4 Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.0031769,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "74B7-1B2F-01CE",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Las Vegas": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "74C2-8FA3-4C69",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Hyperdisk Balanced Capacity in Singapore": {
+   "aud": 0.1362641,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "7500-5594-7B83",
+   "family": "Storage",
+   "group": "SSD"
+  },
+  "Nvidia Tesla P4 GPU attached to DWS Defined Duration VMs running in Singapore": {
+   "aud": 0.9037925,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "755C-24B0-4F9B",
+   "family": "Compute",
+   "group": "GPU"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to Mumbai": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "759B-1DAF-63D5",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Zurich to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "75AC-6B62-029E",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to Doha": {
+   "aud": 0.1529495,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "75FE-50DD-EFF6",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "T2A Arm Instance Ram running in Singapore": {
+   "aud": 0.005825985,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "761E-277E-41F6",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Inter Region Data Transfer In from Singapore to APAC": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "7626-6D68-9958",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "H4D Instance Local SSD running in Singapore": {
+   "aud": 0.204492091,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "773D-7393-F86D",
+   "family": "Compute",
+   "group": "LocalSSD"
+  },
+  "Network Internet Data Transfer Out from Singapore to Central America": {
+   "aud": 0.166854,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "77ED-3F2E-4A81",
+   "family": "Network",
+   "group": "PremiumInternetEgress"
+  },
+  "Network Internet Data Transfer Out from Singapore to EMEA": {
+   "aud": 0.166854,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "77FA-B1DB-31D7",
+   "family": "Network",
+   "group": "PremiumInternetEgress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Hong Kong": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "791E-42A1-92DF",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Inter Region Data Transfer In from Kuala Lumpur to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "7970-19BB-F3AE",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Custom Extended Instance Ram running in Singapore": {
+   "aud": 0.015607801,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "79C6-8EC6-8D49",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Memory Optimized Upgrade Premium for Memory-optimized Instance Core running in Singapore": {
+   "aud": 0.007401301,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "9731-585C-311D",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "M4 Sole Tenancy Instance Ram running in Singapore": {
+   "aud": 0.00794364,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "79DF-FC3A-BFCB",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Inter Region Data Transfer Out from Mexico to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "7A12-0C42-3E4A",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Johannesburg": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "7A65-E462-6AB9",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Custom Instance Ram running in Singapore": {
+   "aud": 0.007629816,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "7A71-9CF7-E88F",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Frankfurt": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "7AF2-1125-00C4",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to London": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "7B29-7F6D-E7EF",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Las Vegas to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "7B6A-4795-57A3",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "TpuV5e running in Singapore": {
+   "aud": 2.169102,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "7C31-D199-5D68",
+   "family": "Compute",
+   "group": "TPU"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Sydney": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "7C34-0CD4-7662",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Sole Tenancy Premium for H3 Sole Tenancy Instance Ram running in Singapore": {
+   "aud": 0.000507757,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "7C75-9682-4209",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Nvidia H100 80GB GPU attached to DWS Defined Duration VMs running in Singapore": {
+   "aud": 5.840948132,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "7CF8-F592-DE2C",
+   "family": "Compute",
+   "group": "GPU"
+  },
+  "Reserved Nvidia Tesla A100 GPU in Singapore": {
+   "aud": 0.0,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "7D97-D53A-18D9",
+   "family": "Compute",
+   "group": "GPU"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Phoenix": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "7DA8-6AED-22B6",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Virginia": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "7E78-FDD2-080E",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "M4N Sole Tenancy Instance Ram running in Singapore": {
+   "aud": 0.014110286,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "7E85-B8CE-66BB",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Sole Tenancy Premium for C4 Sole Tenancy Instance Ram running in Singapore": {
+   "aud": 0.000675523,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "7EC2-37C7-FAD8",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "N1 Predefined Instance Core running in Singapore": {
+   "aud": 0.054226159,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "7ED6-57D6-C844",
+   "family": "Compute",
+   "group": "N1Standard"
+  },
+  "E2 Custom Instance Ram running in Singapore": {
+   "aud": 0.005264573,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "7F45-FC8B-2F18",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Internet Data Transfer In from South America to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "7FAA-6BE3-2190",
+   "family": "Network",
+   "group": "PremiumInternetIngress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Kuala Lumpur": {
+   "aud": 0.194663,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "8026-5BB3-0593",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Sole Tenancy Premium for M4Ultramem224 Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.004026743,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "8029-6F6B-080B",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Regional Balanced PD Instant Snapshot data storage in Singapore": {
+   "aud": 0.305899,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "8037-361B-AD8B",
+   "family": "Storage",
+   "group": "Storage"
+  },
+  "Sole Tenancy Overcommit Premium for N2 Sole Tenancy Instance RAM running in Singapore": {
+   "aud": 0.001816622,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "803C-F19F-F49D",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "DWS Defined Duration SSD backed Local Storage running in Singapore": {
+   "aud": 0.1223596,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "80AE-FFEA-2D34",
+   "family": "Storage",
+   "group": "LocalSSD"
+  },
+  "M4Ultramem224 Instance Ram running in Singapore": {
+   "aud": 0.009865034,
+   "unit": "GBy.h",
+   "currency": "AUD",
+   "sku": "80D0-DB53-8273",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Sole Tenancy Instance RAM running in Singapore": {
+   "aud": 0.007266491,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "811F-7613-0D41",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Internet Data Transfer Out from Singapore to Indonesia": {
+   "aud": 0.2641855,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "8135-830E-E35B",
+   "family": "Network",
+   "group": "PremiumInternetEgress"
+  },
+  "Memory-optimized Sole Tenancy Instance RAM running in Singapore": {
+   "aud": 0.008356604,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "8169-ECB1-EF35",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Inter Region Data Transfer In from Virginia to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "81FA-4317-7266",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "N4A Custom Instance Ram running in Singapore": {
+   "aud": 0.005422755,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "82A3-D092-3178",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Delhi": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "83C2-62FD-8DC0",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Sole Tenancy Overcommit Premium for Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.013556539,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "84A3-CBE9-206E",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Internet Data Transfer In from South Korea to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "84FA-24B7-C7E8",
+   "family": "Network",
+   "group": "PremiumInternetIngress"
+  },
+  "Sole Tenancy Overcommit Premium for N2D AMD Sole Tenancy Instance RAM running in Singapore": {
+   "aud": 0.001580594,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "85BC-66F2-1921",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Americas to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "85F1-A5E2-90F2",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Montreal": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "8645-17F3-34DE",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "C4D Instance Local SSD running in Singapore": {
+   "aud": 0.274463706,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "872F-EF06-7BBC",
+   "family": "Compute",
+   "group": "LocalSSD"
+  },
+  "Z3 Instance Ram running in Singapore": {
+   "aud": 0.011416489,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "87EA-B3EA-6DAB",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "C4 Sole Tenancy Instance Ram running in Singapore": {
+   "aud": 0.006755238,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "882F-49F6-CBB6",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "1/8 vGPU no lssd attached to DWS Defined Duration VMs running in Singapore": {
+   "aud": 0.449727148,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "885C-63F5-CBF4",
+   "family": "Compute",
+   "group": "GPU"
+  },
+  "N2D AMD Sole Tenancy Instance RAM running in Singapore": {
+   "aud": 0.006322376,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "8958-74BA-D489",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Inter Region Data Transfer Out from Frankfurt to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "8968-21A8-EFDF",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Sole Tenancy Premium for Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.005422615,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "89D7-5956-2416",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Vpn Internet Data Transfer Out from Singapore to Eastern Europe": {
+   "aud": 0.194663,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "8A89-D420-A534",
+   "family": "Network",
+   "group": "VPNInternetEgress"
+  },
+  "Standard PD Instant Snapshot data storage in Singapore": {
+   "aud": 0.0611798,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "8B4D-FCF4-2462",
+   "family": "Storage",
+   "group": "Storage"
+  },
+  "N2D AMD Instance Core running in Singapore": {
+   "aud": 0.047176578,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "8B4E-B458-AD51",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Doha to Singapore": {
+   "aud": 0.1529495,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "8B5A-A9ED-B59C",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Inter Region Data Transfer In from Berlin to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "8B78-9FAF-AC40",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to Mexico": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "8BEE-ABBB-4BF7",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Regional Archive Snapshot Retrieval in Jurong West": {
+   "aud": 0.03253653,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "8C41-3B1C-F990",
+   "family": "Storage",
+   "group": "PDSnapshot"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Stockholm": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "8C46-60F5-0C70",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Sole Tenancy Premium for H4D Sole Tenancy Instance Local SSD running in Singapore": {
+   "aud": 0.020449209,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "8CB0-89CB-84CB",
+   "family": "Compute",
+   "group": "LocalSSD"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Turin": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "8D18-0BB3-2391",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Committed Use Discount Premium for N4A Custom Instance Core running in Singapore": {
+   "aud": 0.00102059,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "8D41-7DC3-19A7",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Japan": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "8D73-F58F-8BE1",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to Toronto": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "8DE2-60D3-C92D",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Zurich to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "8DFF-9BFC-1853",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Dallas": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "8E6E-93A7-C685",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Las Vegas": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "8F3D-DA44-BDFD",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Stockholm to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "8FB1-2B54-50FF",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "A3 Instance Core running in Singapore": {
+   "aud": 0.043739232,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "900F-F14A-DEF3",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Inter Region Data Transfer In from Mexico to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "9093-9072-4976",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "N2D AMD Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.047176578,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "90CB-D334-261B",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Inter Region Data Transfer In from Montreal to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "9171-5BDB-75A3",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Network Vpn Internet Data Transfer Out from Singapore to Australia": {
+   "aud": 0.2641855,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "91CD-8AC9-ABE3",
+   "family": "Network",
+   "group": "VPNInternetEgress"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Israel": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "9267-E7E9-8AC9",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "DWS Defined Duration G2 Custom Core running in Singapore": {
+   "aud": 0.045007962,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "9286-FEFA-939A",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "SSD PD Instant Snapshot data storage in Singapore": {
+   "aud": 0.26001415,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "9293-5DDE-40C0",
+   "family": "Storage",
+   "group": "Storage"
+  },
+  "Extreme PD Instant Snapshot data storage in Singapore": {
+   "aud": 0.29060405,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "92A8-1045-1D0B",
+   "family": "Storage",
+   "group": "Storage"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Columbus to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "92AE-A1D1-1192",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "N2D AMD Instance Ram running in Singapore": {
+   "aud": 0.006322376,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "92EB-71EA-DA74",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "DWS Flex Start H4D Standard Ram running in Singapore": {
+   "aud": 0.001746405,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "932F-02F4-9057",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Sole Tenancy Premium for N4A Sole Tenancy Instance Ram running in Singapore": {
+   "aud": 0.000515856,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "93D5-FC7B-AF60",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Inter Region Data Transfer Out from Los Angeles to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "9469-40EA-587B",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Vpn Internet Data Transfer Out from Singapore to Central America": {
+   "aud": 0.194663,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "946E-53B6-2F20",
+   "family": "Network",
+   "group": "VPNInternetEgress"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Los Angeles": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "9482-2E11-CAE1",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Network Internet Data Transfer Out from Singapore to India": {
+   "aud": 0.194663,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "9521-495B-94E2",
+   "family": "Network",
+   "group": "PremiumInternetEgress"
+  },
+  "Sole Tenancy Premium for N2D AMD Sole Tenancy Instance RAM running in Singapore": {
+   "aud": 0.000632237,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "95A3-5989-C880",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Sole Tenancy Premium for M3 Memory-optimized Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.005969585,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "9639-B5D8-AD15",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Snapshot Recycle Bin Regional Early Deletion in Singapore": {
+   "aud": 0.085512675,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "9646-74F2-98BD",
+   "family": "Storage",
+   "group": "PDSnapshot"
+  },
+  "Network Inter Region Data Transfer In from Milan to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "97B8-6D7A-70FE",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Network Inter Region Data Transfer In from EMEA to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "98F7-03C4-4061",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Sole Tenancy Premium for Memory-optimized Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.005693336,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "995E-E433-E650",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Inter Region Data Transfer In from APAC to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "9A66-1F38-AB49",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to Turin": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "9A7F-3311-DB81",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to EMEA": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "9AA1-A59A-59E4",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "DWS Defined Duration G4 Ram running in Singapore": {
+   "aud": 0.00408097,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "9AD7-5A00-FA3D",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Japan": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "9BD6-7918-E947",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Hong Kong": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "9C6D-87B8-A204",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Reserved N4D Ram in Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "9D09-2EF1-316F",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Regional Standard Snapshot Early Deletion in Jurong West": {
+   "aud": 0.08481745,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "9D95-E028-BD6D",
+   "family": "Storage",
+   "group": "PDSnapshot"
+  },
+  "Regional Archive Snapshot Data Storage in Jurong West": {
+   "aud": 0.03253653,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "9DB9-341A-E6D3",
+   "family": "Storage",
+   "group": "PDSnapshot"
+  },
+  "T2D AMD Instance Core running in Singapore": {
+   "aud": 0.047176578,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "9E37-EAF4-1576",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Israel": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "9E6C-84FE-1B63",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Sole Tenancy Premium for C4D Sole Tenancy Instance Ram running in Singapore": {
+   "aud": 0.000599679,
+   "unit": "GBy.h",
+   "currency": "AUD",
+   "sku": "9EF8-5773-DF0F",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Doha": {
+   "aud": 0.1529495,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "9F20-89C3-E01D",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Jakarta to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "9FED-C0C4-0D37",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Los Angeles to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "A02A-3A52-D7C8",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Inter Region Data Transfer Out from Israel to Singapore": {
+   "aud": 0.1529495,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "A0A2-73AA-D5AC",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "M4NUltramem224  Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.071542823,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "A1AE-EFA2-B349",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Hyperdisk Balanced Storage Pools Standard Capacity - Jurong West": {
+   "aud": 0.13682028,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "A255-19B2-38EF",
+   "family": "Storage",
+   "group": "HDBSP"
+  },
+  "Nvidia H100 80GB GPU running in Singapore": {
+   "aud": 17.708098222,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "A26F-44D0-9A76",
+   "family": "Compute",
+   "group": "GPU"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Osaka": {
+   "aud": 0.194663,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "A275-0BF8-A913",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Reserved A3Ultra Core in Singapore in Calendar Mode": {
+   "aud": 0.021762215,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "A378-881C-6E50",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Doha": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "A3E6-1444-D6E3",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "N4D Custom Extended Instance Ram running in Singapore": {
+   "aud": 0.012778235,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "A484-4FFF-C0FF",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "DWS Flex Start H4D Standard Core running in Singapore": {
+   "aud": 0.048906297,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "A4A1-BA47-510B",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Inter Region Data Transfer In from London to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "A518-8D8B-049B",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Network Inter Region Data Transfer In from Las Vegas to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "A558-635F-2E00",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Network Inter Region Data Transfer Out from Zurich to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "A599-C8D7-2AFC",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Inter Region Data Transfer In from Seoul to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "A5BA-82CB-5F7A",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "M4 Instance Core running in Singapore": {
+   "aud": 0.031769001,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "A607-BCB9-048D",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Inter Region Data Transfer Out from Virginia to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "A688-F6ED-E57F",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Internet Data Transfer In from Africa to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "A73F-FD89-D49D",
+   "family": "Network",
+   "group": "PremiumInternetIngress"
+  },
+  "Network Inter Region Data Transfer In from Sao Paulo to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "A784-D4D2-E6F7",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "G2 Sole Tenancy Instance Ram running in Singapore": {
+   "aud": 0.005021739,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "A7C5-D846-D45C",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Warsaw": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "A7DE-6EBE-F471",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "DWS Defined Duration G2 Custom Ram running in Singapore": {
+   "aud": 0.005272826,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "A804-D28C-D4C9",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Vpn Inter Region Data Transfer In from Delhi to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "A826-7311-6FDE",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "C3 Instance Core running in Singapore": {
+   "aud": 0.059438553,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "A86D-6AED-033D",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Internet Data Transfer In from Western Europe to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "A8A4-DA04-137A",
+   "family": "Network",
+   "group": "PremiumInternetIngress"
+  },
+  "C2D AMD Instance Core running in Singapore": {
+   "aud": 0.050711101,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "A8BB-FA67-F9D8",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "C4 Instance Core running in Singapore": {
+   "aud": 0.059438553,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "A8C4-2189-7951",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Hyperdisk Balanced IOPS Confidential Mode in Singapore": {
+   "aud": 0.00139045,
+   "unit": "mo",
+   "currency": "AUD",
+   "sku": "A925-C87D-837A",
+   "family": "Storage",
+   "group": "SSD"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to Melbourne": {
+   "aud": 0.139045,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "A96C-4583-EFAC",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "DWS Defined Duration V6e running in Singapore": {
+   "aud": 1.8771075000000002,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "A9A3-4656-5CE5",
+   "family": "Compute",
+   "group": "TPU"
+  },
+  "Network Inter Region Data Transfer In from Salt Lake City to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "A9C1-FDEA-5168",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Hong Kong to Singapore": {
+   "aud": 0.0695225,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "A9D0-8347-3841",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Inter Region Data Transfer In from Singapore to London": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "AA15-AAAE-16F3",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Network Inter Region Data Transfer Out from Osaka to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "AA1D-D121-D491",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Hong Kong": {
+   "aud": 0.0695225,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "AA92-5565-B68E",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Jakarta to Singapore": {
+   "aud": 0.2085675,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "AAA0-03BC-FF6C",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Finland": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "AAA2-1291-8E9E",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Kuala Lumpur to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "AAA5-7747-F3AF",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "M3 Memory-optimized Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.059695856,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "AAC2-07A8-95BC",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "DWS Defined Duration A3Mega Core running in Singapore": {
+   "aud": 0.016009641,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "AAFC-0BDE-81E4",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to APAC": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "AB08-A30B-7DCA",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Madrid to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "AB42-7C68-8F70",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Melbourne": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "ACB6-E0A1-CCA9",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Inter Region Data Transfer Out from Turin to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "ACDD-BFD5-B268",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Asynchronous Replication Protection - Hyperdisk Extreme IOPS in Singapore": {
+   "aud": 0.02196911,
+   "unit": "mo",
+   "currency": "AUD",
+   "sku": "ACEA-8F4D-982E",
+   "family": "Storage",
+   "group": "SSD"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Santiago": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "ACF3-F00B-865C",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Inter Region Data Transfer In from Johannesburg to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "AD08-7D01-6DA7",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Delhi": {
+   "aud": 0.0695225,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "AD55-1854-F12C",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Inter Region Data Transfer Out from Phoenix to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "ADB0-B418-EE50",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Columbus": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "ADE4-BD40-1974",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Salt Lake City": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "AEA5-A8B8-4234",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "G4 Instance Core running in Singapore": {
+   "aud": 0.081608291,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "AEE8-4D40-ED10",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Virginia": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "AEFC-B8D1-263B",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Network Inter Region Data Transfer In from Americas to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "AF20-05B2-C3BD",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Hyperdisk Balanced Storage Pools Standard IOPS - Jurong West": {
+   "aud": 0.00862079,
+   "unit": "mo",
+   "currency": "AUD",
+   "sku": "AF85-CB36-978E",
+   "family": "Storage",
+   "group": "HDBSP"
+  },
+  "DWS Defined Duration A3Mega Ram running in Singapore": {
+   "aud": 0.001394621,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "B010-D71A-89E0",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Vpn Inter Region Data Transfer In from Japan to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "B027-C478-43DC",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Las Vegas": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "B07B-51B2-4E96",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Network Internet Data Transfer Out from Singapore to Africa": {
+   "aud": 0.2085675,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "B103-A797-5A01",
+   "family": "Network",
+   "group": "PremiumInternetEgress"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Zurich": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "B12F-269D-3FE4",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Jakarta": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "B161-7CED-83C4",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Berlin to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "B196-7E73-8B10",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Inter Region Data Transfer Out from Warsaw to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "B1AB-769E-6160",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Sole Tenancy Premium for C3 Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.005943855,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "B269-6455-42CB",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to Osaka": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "B26A-9896-E0E5",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Reserved Nvidia Tesla A100 80GB GPU in Singapore": {
+   "aud": 0.0,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "B2FD-138A-F0FB",
+   "family": "Compute",
+   "group": "GPU"
+  },
+  "Network Inter Region Data Transfer In from Frankfurt to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "B31E-3260-DE8B",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "DWS Defined Duration A2 Ram running in Singapore": {
+   "aud": 0.003996153,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "B392-5C03-B893",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "DWS Defined Duration vGPU G4 Local SSD running in Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "B485-867C-418F",
+   "family": "Compute",
+   "group": "GPU"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Melbourne": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "B4A7-8CE5-AA4E",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "On-demand fee for VM Tier_1 networking performance in Singapore": {
+   "aud": 0.017153981,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "B4BF-18E0-6CBA",
+   "family": "Network",
+   "group": "AdvancedNetworking"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Berlin to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "B4E2-FDDA-55C3",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "G2 Instance Core running in Singapore": {
+   "aud": 0.042864736,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "B5E8-8750-8D07",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Los Angeles": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "B5FF-E473-0889",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Sole Tenancy Premium for H3 Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.007566621,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "B6BD-402C-ED82",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Internet Data Transfer Out from Singapore to South Korea": {
+   "aud": 0.2641855,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "B711-67A6-6310",
+   "family": "Network",
+   "group": "PremiumInternetEgress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Madrid": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "B784-D6CF-B020",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Committed Use Discount Premium for N4A Custom Instance Ram running in Singapore": {
+   "aud": 0.000116797,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "B7A4-9B77-F004",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Sole Tenancy Premium for Compute-optimized Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.005829322,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "B906-2373-C992",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Hyperdisk Balanced High Availability Throughput in Jurong West": {
+   "aud": 0.13682028,
+   "unit": "mo",
+   "currency": "AUD",
+   "sku": "B9FB-8B7F-D63A",
+   "family": "Storage",
+   "group": "SSD"
+  },
+  "Network Inter Region Data Transfer In from Stockholm to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "BAA1-59BD-6990",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Asynchronous Replication Protection - Hyperdisk Balanced High Availability Throughput in Singapore": {
+   "aud": 0.054922775,
+   "unit": "mo",
+   "currency": "AUD",
+   "sku": "BAB2-CBA1-7D3D",
+   "family": "Storage",
+   "group": "SSD"
+  },
+  "Regional Balanced PD Capacity in Singapore": {
+   "aud": 0.305899,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "BB09-D9FE-73FD",
+   "family": "Storage",
+   "group": "SSD"
+  },
+  "Sole Tenancy Premium for C4D Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.005609866,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "BBA7-4CFB-9EB2",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Berlin": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "BC7A-7B72-8699",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to Dallas": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "BC90-4B3A-8A82",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "BCA3-E141-5F83",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Johannesburg to Singapore": {
+   "aud": 0.1529495,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "BDA3-B073-0611",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "C4 Instance Ram running in Singapore": {
+   "aud": 0.006755238,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "BDCC-00A7-D91A",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Hyperdisk Balanced Capacity Confidential Mode in Singapore": {
+   "aud": 0.027809,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "BE6D-BE1D-A792",
+   "family": "Storage",
+   "group": "SSD"
+  },
+  "Network Inter Region Data Transfer In from Melbourne to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "BEA4-3888-3AF8",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Network Inter Region Data Transfer Out from Finland to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "BECD-F601-4A4E",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Nvidia Tesla A100 GPU attached to DWS Defined Duration VMs running in Singapore": {
+   "aud": 2.371910256,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "BF0A-CC59-C1B5",
+   "family": "Compute",
+   "group": "GPU"
+  },
+  "DWS Defined Duration N1 Predefined Core running in Singapore": {
+   "aud": 0.05422545,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "BF77-8CA5-1F7F",
+   "family": "Compute",
+   "group": "N1Standard"
+  },
+  "N4A Custom Extended Instance Ram running in Singapore": {
+   "aud": 0.011610257,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "BF93-86FD-B8CD",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Compute optimized Core running in Singapore": {
+   "aud": 0.058293225,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "BFA6-56C0-FB9C",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Vpn Inter Region Data Transfer In from Netherlands to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "BFD7-422D-4FA3",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Dallas to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "C051-8B2B-A2D9",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Hyperdisk Balanced Storage Pools Advanced IOPS - Jurong West": {
+   "aud": 0.016268265,
+   "unit": "mo",
+   "currency": "AUD",
+   "sku": "C0DE-6D17-E84A",
+   "family": "Storage",
+   "group": "HDBSP"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to Los Angeles": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "C119-5266-6796",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "C4A Arm Instance Ram running in Singapore": {
+   "aud": 0.006021051,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "C126-12BB-C123",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Inter Region Data Transfer Out from Sydney to Singapore": {
+   "aud": 0.139045,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "C129-59E1-95FF",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Sole Tenancy Premium for N4 Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.005350326,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "C1BC-B2CE-AFEF",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Japan": {
+   "aud": 0.0695225,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "C34C-C018-751B",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Sao Paulo": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "C35C-51D9-FD6C",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "DWS Defined Duration A3Ultra Ram running in Singapore": {
+   "aud": 0.000914916,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "C3B5-FB1B-E844",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "N4D Custom Instance Ram running in Singapore": {
+   "aud": 0.005962666,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "C40F-C934-E548",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Singapore": {
+   "aud": 0.194663,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "C522-7017-CAC1",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Phoenix": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "C543-1D5A-BD09",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from APAC to Singapore": {
+   "aud": 0.0695225,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "C54C-6092-6C9B",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Reserved A3Ultra Ram in Singapore in Calendar Mode": {
+   "aud": 0.001295485,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "C57E-C452-C200",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "A4 Nvidia B200 (1 gpu slice) attached to DWS Defined Duration VMs running in Singapore": {
+   "aud": 11.20007475,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "C5A9-379D-E9BE",
+   "family": "Compute",
+   "group": "GPU"
+  },
+  "Network Data Transfer In from Google Services from Singapore to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "C60B-9B3C-B624",
+   "family": "Network",
+   "group": "GoogleIngress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Paris to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "C663-66F7-31AF",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "vGPU G4 Instance Local SSD running in Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "C6A4-3F7A-5218",
+   "family": "Compute",
+   "group": "GPU"
+  },
+  "Network Inter Region Data Transfer In from Delhi to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "C71C-8C46-64B6",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Sole Tenancy Premium for C4 Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.005943855,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "C7B8-88D0-1CD4",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Inter Region Data Transfer Out from Kuala Lumpur to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "C7D8-7A4A-E2CD",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to Zurich": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "C7E2-211A-96C7",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "N2 Instance Ram running in Singapore": {
+   "aud": 0.007266491,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "C84B-1AD4-8EAE",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Israel": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "C85F-7917-3BFF",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Salt Lake City to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "C928-620D-1665",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Dammam": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "C931-FAC9-20BB",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "C3 Sole Tenancy Instance Ram running in Singapore": {
+   "aud": 0.006755237,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "C961-7F1A-1441",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Seoul": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "C978-AAE0-EAE1",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "SSD backed PD Capacity in Singapore": {
+   "aud": 0.26001415,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "C97A-896E-D6F0",
+   "family": "Storage",
+   "group": "SSD"
+  },
+  "DWS Calendar Mode H4D Instance Ram running in Singapore": {
+   "aud": 0.001863172,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "C9AD-51E2-D09E",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Hyperdisk Balanced Storage Pools Advanced Capacity - Jurong West": {
+   "aud": 0.23943549,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "C9B1-72DC-0ABB",
+   "family": "Storage",
+   "group": "HDBSP"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Montreal": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "C9F5-8D3E-8FF4",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Hyperdisk Extreme Instant Snapshot data storage in Jurong West": {
+   "aud": 0.21440739,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "CA2B-2C30-42ED",
+   "family": "Storage",
+   "group": "SSD"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Toronto": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "CAF8-D62A-FD08",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "H4D Sole Tenancy Instance Ram running in Singapore": {
+   "aud": 0.002327613,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "CB10-6313-724E",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "TpuV6e running in Singapore": {
+   "aud": 4.1296365,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "CB19-C37E-921D",
+   "family": "Compute",
+   "group": "TPU"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Dammam": {
+   "aud": 0.1529495,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "CB9B-DD12-8257",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "N4D Custom Instance Core running in Singapore": {
+   "aud": 0.052432896,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "CBEC-C1BD-EF52",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Vpn Inter Region Data Transfer In from London to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "CD25-4BED-19CB",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Bangkok to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "CD68-6B3D-01F4",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Extreme PD Capacity in Singapore": {
+   "aud": 0.1918821,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "CDB7-FDDC-E5A6",
+   "family": "Storage",
+   "group": "SSD"
+  },
+  "N4A Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.045384288,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "CDED-4981-9AB6",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to Madrid": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "CE26-3DD0-C4DF",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "C4D Instance Ram running in Singapore": {
+   "aud": 0.005996308,
+   "unit": "GBy.h",
+   "currency": "AUD",
+   "sku": "CEAB-B8DD-5D52",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Salt Lake City": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "CF0D-5786-EE02",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to Kuala Lumpur": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "CF4A-C4FC-DDB1",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Internet Data Transfer Out from Singapore to China": {
+   "aud": 0.3198035,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "D227-97EC-A38C",
+   "family": "Network",
+   "group": "PremiumInternetEgress"
+  },
+  "DWS Defined Duration Custom Ram running in Singapore": {
+   "aud": 0.007626659,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "D29D-50C3-6500",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Sole Tenancy Premium for G2 Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.004286473,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "D2C6-A6AE-1C74",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Inter Region Data Transfer Out from Dammam to Singapore": {
+   "aud": 0.1529495,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "D2DA-EF2E-6FD6",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Nvidia Tesla A100 GPU running in Singapore": {
+   "aud": 4.312563999,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "D37C-7DA9-71FA",
+   "family": "Compute",
+   "group": "GPU"
+  },
+  "N4A Custom Instance Core running in Singapore": {
+   "aud": 0.047659064,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "D3C9-3327-2079",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Vpn Internet Data Transfer Out from Singapore to EMEA": {
+   "aud": 0.194663,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "D3E6-6A6C-1CAA",
+   "family": "Network",
+   "group": "VPNInternetEgress"
+  },
+  "N2 Custom Instance Core running in Singapore": {
+   "aud": 0.056937467,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "D432-F64C-0F60",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Inter Region Data Transfer In from Osaka to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "D444-6DD4-2EFA",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "DWS Defined Duration G4 Core running in Singapore": {
+   "aud": 0.034003454,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "D458-A975-846C",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Vpn Inter Region Data Transfer In from Warsaw to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "D4C9-7F05-837A",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Inter Region Data Transfer In from Japan to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "D4DC-DA81-7CF0",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Sole Tenancy Overcommit Premium for N4 Sole Tenancy Instance Ram running in Singapore": {
+   "aud": 0.0015876,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "D4DC-F380-C06F",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Asynchronous Replication Protection - Hyperdisk Balanced Throughput in Singapore": {
+   "aud": 0.027391865,
+   "unit": "mo",
+   "currency": "AUD",
+   "sku": "D533-0CDA-BFE2",
+   "family": "Storage",
+   "group": "SSD"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to Montreal": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "D5E0-D1AD-127C",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Israel to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "D609-0F86-8B0C",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Los Angeles to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "D672-0E6F-5CE4",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Milan to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "D68E-CB86-64D9",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Osaka": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "D75A-0D49-48B4",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Asynchronous Replication Protection - Regional PD Balanced in Singapore": {
+   "aud": 0.13682028,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "D7B8-8319-5F9B",
+   "family": "Storage",
+   "group": "SSD"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to APAC": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "D7E3-C259-89AC",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Reserved M4Ultramem224 Core in Singapore": {
+   "aud": 0.0,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "D800-951E-FE58",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to Virginia": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "D83A-3163-3260",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Packet Mirroring: Data Processing Charge in Singapore": {
+   "aud": 0.01251405,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "D961-B568-6BB4",
+   "family": "Network",
+   "group": "PacketMirroring"
+  },
+  "Network Vpn Inter Region Data Transfer In from Dallas to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "D9C0-FF16-5FAE",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Paris": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "DA90-CF6A-78F9",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "N2D AMD Custom Extended Ram running in Singapore": {
+   "aud": 0.013579134,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "DAE7-6982-9522",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Sydney": {
+   "aud": 0.2085675,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "DBA8-57FB-2BE8",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Compute-optimized Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.058293225,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "DD7D-19D7-CA2A",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "N4A Instance Ram running in Singapore": {
+   "aud": 0.005158569,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "DDD8-6C52-B8E5",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Finland": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "DF28-8B97-32D0",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to Japan": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "DF4E-B28D-9067",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Z3 Instance Core running in Singapore": {
+   "aud": 0.085174837,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "DF5D-D509-876F",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "N4 Instance Core running in Singapore": {
+   "aud": 0.053503264,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "DFAF-9D8F-2A48",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Mumbai to Singapore": {
+   "aud": 0.0695225,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "DFC9-72FB-9703",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Inter Region Data Transfer Out from Melbourne to Singapore": {
+   "aud": 0.139045,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "DFE9-8CE9-3C3C",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Sao Paulo": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "DFEE-3014-B340",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Network Internet Data Transfer Out from Singapore to Western Europe": {
+   "aud": 0.166854,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "E049-E7CD-159B",
+   "family": "Network",
+   "group": "PremiumInternetEgress"
+  },
+  "Network Inter Region Data Transfer In from Dammam to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "E072-224F-2448",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Network Inter Region Data Transfer In from Columbus to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "E0DC-9CC1-AD1A",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from EMEA to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "E0FE-7B86-0F58",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Standard Data Transfer Out to Internet from Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "E17D-3D7A-ECE5",
+   "family": "Network",
+   "group": "StandardInternetEgress"
+  },
+  "Sole Tenancy Premium for M4Ultramem224 Sole Tenancy Instance Ram running in Singapore": {
+   "aud": 0.000986506,
+   "unit": "GBy.h",
+   "currency": "AUD",
+   "sku": "E1D5-B273-EA3A",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Vpn Inter Region Data Transfer In from Mumbai to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "E1EB-B120-6B1A",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "E2 Instance Ram running in Singapore": {
+   "aud": 0.005013879,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "E277-7DC2-2C7D",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Vpn Inter Region Data Transfer In from Turin to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "E3B3-3B1E-3A85",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Toronto to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "E441-776B-5951",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to Sydney": {
+   "aud": 0.139045,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "E583-AD02-7322",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "C3D Sole Tenancy Instance Ram running in Singapore": {
+   "aud": 0.00679126,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "E5BB-95A5-20B0",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Reserved H200 141GB GPU in Singapore in Calendar Mode": {
+   "aud": 9.002402926,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "E66F-2D2E-FF4F",
+   "family": "Compute",
+   "group": "GPU"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Jakarta": {
+   "aud": 0.2085675,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "E678-27F0-EF86",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Inter Region Data Transfer In from Paris to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "E731-F20E-9613",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Paris to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "E786-DEF9-62E0",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Reserved Nvidia H100 80GB Mega GPU in Singapore in Calendar Mode": {
+   "aud": 6.73133674,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "E809-4296-9710",
+   "family": "Compute",
+   "group": "GPU"
+  },
+  "Network Internet Data Transfer In from Eastern Europe to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "E867-CF45-B580",
+   "family": "Network",
+   "group": "PremiumInternetIngress"
+  },
+  "Network Internet Data Transfer In from Indonesia to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "E880-4312-F513",
+   "family": "Network",
+   "group": "PremiumInternetIngress"
+  },
+  "Network Vpn Internet Data Transfer Out from Singapore to Africa": {
+   "aud": 0.194663,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "E8F1-BFFF-EA69",
+   "family": "Network",
+   "group": "VPNInternetEgress"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Finland": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "E957-16C0-5BD6",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Extreme PD IOPS in Singapore": {
+   "aud": 0.1001124,
+   "unit": "mo",
+   "currency": "AUD",
+   "sku": "E97A-3CDB-37DD",
+   "family": "Storage",
+   "group": "SSD"
+  },
+  "N2 Custom Extended Instance Ram running in Singapore": {
+   "aud": 0.015607801,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "E97F-57F5-F341",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Nvidia Tesla P4 GPU running in Singapore": {
+   "aud": 0.9037925,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "E9A9-5D7F-DCAD",
+   "family": "Compute",
+   "group": "GPU"
+  },
+  "C4A Arm Instance Core running in Singapore": {
+   "aud": 0.052937184,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "E9F9-1A71-F977",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Data Transfer to Google Services from Singapore to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "EA96-9836-7E58",
+   "family": "Network",
+   "group": "GoogleEgress"
+  },
+  "Reserved A3Mega Core in Singapore in Calendar Mode": {
+   "aud": 0.017520008,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "EADC-46E5-B0C4",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Madrid": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "EB0A-6394-B393",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "N4 Custom Instance Core running in Singapore": {
+   "aud": 0.056179296,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "EB16-C30C-22E7",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Kuala Lumpur to Singapore": {
+   "aud": 0.194663,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "EB22-3ABE-E484",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "H3 Instance Core running in Singapore": {
+   "aud": 0.075666217,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "EB3F-FB6E-405C",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Vpn Internet Data Transfer In from Australia to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "EB87-1D82-875A",
+   "family": "Network",
+   "group": "VPNInternetIngress"
+  },
+  "Sole Tenancy Premium for N2 Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.005422615,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "EBDD-448F-9141",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Storage PD Snapshot in Singapore": {
+   "aud": 0.08481745,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "EC5A-D05B-E188",
+   "family": "Storage",
+   "group": "PDSnapshot"
+  },
+  "Network Vpn Inter Region Data Transfer In from Santiago to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "EC7E-BCD8-A459",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Inter Region Data Transfer Out from EMEA to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "ECF5-FFCC-8269",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Inter Region Data Transfer In from Los Angeles to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "ED37-13AB-5712",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Network Internet Data Transfer In from Australia to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "ED97-5D52-D3CC",
+   "family": "Network",
+   "group": "PremiumInternetIngress"
+  },
+  "DWS Calendar Mode H4D Instance Local SSD running in Singapore": {
+   "aud": 0.163593394,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "EDEF-BBCE-B725",
+   "family": "Compute",
+   "group": "LocalSSD"
+  },
+  "Network Inter Region Data Transfer Out from Montreal to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "EE13-062B-F3F7",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Vpn Internet Data Transfer Out from Singapore to India": {
+   "aud": 0.194663,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "EEB6-0165-7105",
+   "family": "Network",
+   "group": "VPNInternetEgress"
+  },
+  "DWS Defined Duration A3 Ram running in Singapore": {
+   "aud": 0.001323708,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "EF4B-260A-DD01",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Zurich": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "EFED-4432-9886",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Toronto to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "F082-9A5F-3849",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "DWS Calendar Mode A4 Nvidia B200 (1 gpu slice) in Singapore": {
+   "aud": 15.68010465,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "F0E5-CB4C-6C00",
+   "family": "Compute",
+   "group": "GPU"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to Santiago": {
+   "aud": 0.194663,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "F0F9-8AF9-1A6D",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Seoul to Singapore": {
+   "aud": 0.0695225,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "F101-133F-6F2C",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Sole Tenancy Premium for N2D AMD Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.004717657,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "F18B-270C-17CE",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Americas": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "F208-E30F-07D3",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Asynchronous Replication Protection - Hyperdisk Extreme Capacity in Singapore": {
+   "aud": 0.085790765,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "F234-BC92-C6DA",
+   "family": "Storage",
+   "group": "SSD"
+  },
+  "N2 Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.054226159,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "F2A2-F46C-3699",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "DWS Defined Duration G2 Ram running in Singapore": {
+   "aud": 0.005021739,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "F331-FA56-5DE6",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Vpn Internet Data Transfer In from South America to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "F369-A37F-ECC2",
+   "family": "Network",
+   "group": "VPNInternetIngress"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to Berlin": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "F37D-4A52-270A",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Inter Region Data Transfer Out from Netherlands to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "F384-80FA-F66F",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Inter Region Data Transfer In from Singapore to Doha": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "F39F-95F8-1262",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "M4NUltramem224  Sole Tenancy Instance Ram running in Singapore": {
+   "aud": 0.017525509,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "F432-3BE8-00F3",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Americas": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "F498-382F-D247",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "C4A Instance Local SSD running in Singapore": {
+   "aud": 0.205842218,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "F5C9-C1D6-ECE5",
+   "family": "Compute",
+   "group": "LocalSSD"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Mumbai": {
+   "aud": 0.0695225,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "F600-C19D-4D1F",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Inter Region Data Transfer In from Israel to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "F60F-8764-A882",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Network Inter Region Data Transfer Out from Singapore to Hong Kong": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "F71D-C7B3-1702",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Inter Region Data Transfer Out from Columbus to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "F72B-0F6E-9D1A",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Network Vpn Internet Data Transfer In from Central America to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "F735-408B-8C73",
+   "family": "Network",
+   "group": "VPNInternetIngress"
+  },
+  "Hyperdisk Throughput Storage Pools Standard Capacity - Jurong West": {
+   "aud": 0.00862079,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "F7B0-459D-D8DB",
+   "family": "Storage",
+   "group": "HDTSP"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Paris": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "F89C-D05E-1039",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "M4Ultramem224 Instance Core running in Singapore": {
+   "aud": 0.040267432,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "F8BD-B5F7-E659",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Storage Image in Singapore": {
+   "aud": 0.07647475,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "F8E9-1937-EF0F",
+   "family": "Storage",
+   "group": "StorageImage"
+  },
+  "SSD backed Local Storage in Singapore": {
+   "aud": 0.1223596,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "F8F1-D370-6212",
+   "family": "Storage",
+   "group": "LocalSSD"
+  },
+  "Small Instance with 1 VCPU running in Singapore": {
+   "aud": 0.043242995,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "F8F4-3E2C-A4B2",
+   "family": "Compute",
+   "group": "G1Small"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Milan": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "F96A-B82A-B878",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "C4A Sole Tenancy Instance Local SSD running in Singapore": {
+   "aud": 0.205842218,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "F9EB-532C-0120",
+   "family": "Compute",
+   "group": "LocalSSD"
+  },
+  "Network Vpn Inter Region Data Transfer In from Doha to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "FA07-1995-2EF6",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "C4A Sole Tenancy Instance Ram running in Singapore": {
+   "aud": 0.006021051,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "FA2D-EB10-7941",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Inter Region Data Transfer Out from Americas to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "FAD1-829C-5E63",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "Sole Tenancy Premium for C4A Sole Tenancy Instance Local SSD running in Singapore": {
+   "aud": 0.02057866,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "FAF1-060B-FE6E",
+   "family": "Compute",
+   "group": "LocalSSD"
+  },
+  "Nvidia L4 GPU attached to DWS Defined Duration VMs running in Singapore": {
+   "aud": 0.960691938,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "FB8B-A921-69BB",
+   "family": "Compute",
+   "group": "GPU"
+  },
+  "Compute-optimized Sole Tenancy Instance RAM running in Singapore": {
+   "aud": 0.007811548,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "FC01-6CA0-D3E0",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Reserved TpuV5p in Singapore in Calendar Mode": {
+   "aud": 4.087923,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "FC09-5335-A334",
+   "family": "Compute",
+   "group": "TPU"
+  },
+  "Regional Standard PD Instant Snapshot data storage in Singapore": {
+   "aud": 0.1223596,
+   "unit": "GiBy.mo",
+   "currency": "AUD",
+   "sku": "FC16-56EC-4A79",
+   "family": "Storage",
+   "group": "Storage"
+  },
+  "Committed Use Discount Premium for N4D Custom Instance Ram running in Singapore": {
+   "aud": 0.000127762,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "FC52-962A-DFDE",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Dallas": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "FC8D-EAAB-EB91",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "N4 Sole Tenancy Instance Core running in Singapore": {
+   "aud": 0.053503264,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "FCF1-854F-A2A4",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Internet Data Transfer In from India to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "FD08-3E45-5C8C",
+   "family": "Network",
+   "group": "PremiumInternetIngress"
+  },
+  "Network Vpn Inter Region Data Transfer In from Singapore to Montreal": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "FD66-5091-D229",
+   "family": "Network",
+   "group": "VPNInterregionIngress"
+  },
+  "Network Internet Data Transfer In from EMEA to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "FD99-2853-868C",
+   "family": "Network",
+   "group": "PremiumInternetIngress"
+  },
+  "N2D AMD Custom Instance Core running in Singapore": {
+   "aud": 0.049535406,
+   "unit": "h",
+   "currency": "AUD",
+   "sku": "FDBB-84BE-0AF7",
+   "family": "Compute",
+   "group": "CPU"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Singapore to Milan": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "FE08-4E47-5965",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "M3 Memory-optimized Sole Tenancy Instance Ram running in Singapore": {
+   "aud": 0.00874853,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "FE49-604E-0130",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Inter Region Data Transfer Out from Japan to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "FE53-2840-4450",
+   "family": "Network",
+   "group": "InterregionEgress"
+  },
+  "C3D Instance Ram running in Singapore": {
+   "aud": 0.00679126,
+   "unit": "GiBy.h",
+   "currency": "AUD",
+   "sku": "FF0E-72DF-B5C5",
+   "family": "Compute",
+   "group": "RAM"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Sydney to Singapore": {
+   "aud": 0.2085675,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "FF1C-7EB6-2A48",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  },
+  "Network Inter Region Data Transfer In from Warsaw to Singapore": {
+   "aud": 0.0,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "FF2B-7EA8-3D45",
+   "family": "Network",
+   "group": "InterregionIngress"
+  },
+  "Network Vpn Inter Region Data Transfer Out from Virginia to Singapore": {
+   "aud": 0.111236,
+   "unit": "GiBy",
+   "currency": "AUD",
+   "sku": "FFD2-8DDF-1858",
+   "family": "Network",
+   "group": "VPNInterregionEgress"
+  }
+ }
+}

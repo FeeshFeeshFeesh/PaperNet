@@ -1,0 +1,36 @@
+MODIFICATION NOTICE  (GNU GPL v3, section 5(a))
+================================================================================
+
+This directory contains a MODIFIED version of Stockfish.
+
+  Upstream work   Stockfish, a UCI chess playing engine derived from Glaurung 2.1
+                  Copyright (C) 2004-2026 The Stockfish developers (see AUTHORS)
+                  https://github.com/official-stockfish/Stockfish
+  Upstream base   Stockfish 19 (src/misc.cpp reports version "19")
+  Licence         GNU General Public License version 3 or later -- see Copying.txt
+  Modified by     Vladimir Loukine
+  Modified on     September 2026, with later changes through 2026-10-08
+
+WHAT WAS CHANGED
+
+The engine no longer plays chess. It plays "Intransitive" (the rps-v6 rules): a
+9x9 board game with rock, paper and scissors pieces in a non-transitive capture
+relation, won by reaching the opponent's goal square. The change is pervasive --
+it replaces the rules of the game, not a heuristic. Modified or added files:
+
+  types.h          piece types are ROCK/PAPER/SCISSORS; the prey relation
+  position.h/.cpp  board state, goal squares, capture legality, FEN
+  movegen.cpp      move generation, including the evasion rule
+  movepick.cpp     move ordering for the new move set
+  bitboard.h       attack/adjacency tables for the new geometry
+  evaluate.cpp     a 4-line handcrafted evaluation replaces NNUE
+  search.cpp       terminal detection and the 200-ply no-capture draw
+  thread.cpp       root move handling
+  engine.cpp       UCI identification and option set
+  perft.h          perft over the new move generator
+
+Everything else is upstream Stockfish 19, unmodified.
+
+NO WARRANTY. This program is distributed in the hope that it will be useful, but
+WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
+FITNESS FOR A PARTICULAR PURPOSE. See Copying.txt for the full terms.
